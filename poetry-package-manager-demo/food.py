@@ -1,4 +1,4 @@
-from simple_module.utils.fetch_food import fetch_food_generic
+from utils.fetch_food import fetch_food_generic
 
 
 def get_food_list(page_number, page_size):
